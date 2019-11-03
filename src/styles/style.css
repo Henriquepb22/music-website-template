@@ -87,14 +87,36 @@ body {
   background-color: #D41AE3;
   width: 345px;
   height: 366px;
+  border-right: 20px solid #000;
 }
 
 #sectionFive {
-  width: 686px;
+  height: 686px;
+  padding-top: 165px;
+  background-image: url(../img/Place\ Your\ Design\ Here-3.png);
+}
+
+#sectionFive div {
+  width: 637px;
+}
+
+#sectionFive p {
+  font-size: 12.5px;
+  width: 134.95px;
+}
+
+#sectionFive h4 {
+  font-size: 20.83px;
 }
 
 #sectionSix {
   height: 1460px;
+  padding-top: 115px;
+}
+
+#sectionSix p {
+  width: 340px;
+  margin-left: 95px;
 }
 
 #sectionSeven {
@@ -118,7 +140,7 @@ body {
 
 #sectionNine {
   background-color: #D41AE3;
-  padding: 50px;
+  padding: 50px 50px 0 50px;
 }
 
 #sectionNine p {
@@ -128,4 +150,8 @@ body {
 #sectionNine ul {
   list-style: none;
   padding-inline-start: 0px;
+}
+
+.row {
+  margin-right: 0;
 }
