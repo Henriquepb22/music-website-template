@@ -53,26 +53,79 @@ body {
 }
 
 #sectionTwo {
-  padding: 91.1px 0;
-  height: 488.1px;
+  padding: 91px 0;
+  height: 488px;
+  width: 910px;
+}
+
+#sectionTwo p {
+  font-family: 'Raleway';
+  font-size: 18.75px;
 }
 
 #sectionTree {
+  height: 375px;
   background-color: #D41AE3;
+  padding-top: 75px;
+  padding-left: 130px;
 }
 
-#sectionFour {}
+#sectionTree p {
+  font-size: 16.60px;
+  width: 270px;
+}
 
-#sectionFive {}
+#sectionTree h3 {
+  font-size: 18.7px;
+}
 
-#sectionSix {}
+#sectionFour {
+  height: 840px;
+}
+
+#cards {
+  background-color: #D41AE3;
+  width: 345px;
+  height: 366px;
+}
+
+#sectionFive {
+  width: 686px;
+}
+
+#sectionSix {
+  height: 1460px;
+}
 
 #sectionSeven {
   background-color: #D41AE3;
+  height: 225px;
+  padding-top: 80px;
+  padding-left: 150px;
 }
 
-#sectionEight {}
+#sectionSeven .col-4 {
+  border-left: 10px white solid;
+}
+
+#sectionEight {
+  width: 715px;
+}
+
+#sectionEight p {
+  font-size: 18.75px;
+}
 
 #sectionNine {
   background-color: #D41AE3;
+  padding: 50px;
+}
+
+#sectionNine p {
+  width: 280px;
+}
+
+#sectionNine ul {
+  list-style: none;
+  padding-inline-start: 0px;
 }
